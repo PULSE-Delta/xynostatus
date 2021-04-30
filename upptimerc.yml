@@ -12,7 +12,7 @@ status-website:
   baseUrl: /xynostatus # where "repo" is your repository name
   # baseUrl: /your-repo-name
   name: Status page
-  introTitle: "Status page of xyno-botlist.tk."
+  introTitle: "Status page of xyno-Netzwerk"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
