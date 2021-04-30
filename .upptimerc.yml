@@ -15,3 +15,5 @@ status-website:
   introTitle: "Status page of xyno-Netzwerk"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  footer: "Status of Xyno"
