@@ -13,9 +13,5 @@ status-website:
   # baseUrl: /your-repo-name
   name: Status page
   introTitle: "Status page of xyno-Netzwerk"
-maintenance:
-  start: 2021-04-30T13:00:00.220Z
-  end: 2021-04-30T14:00:00.220Z
-  expectedDown: Xyno-Botlist.tk
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
