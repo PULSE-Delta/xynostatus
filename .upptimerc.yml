@@ -4,7 +4,7 @@ repo: xynostatus # The name of this repository
 
 sites:
   - name: Xyno-botlist
-    url: https://xyno-botlist.tk
+    url: https://tundra.aeon-studio.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
